@@ -1,0 +1,10 @@
+input:checked ~ img {
+  opacity: 0;
+  visibility: hidden;
+  /* display: none; */
+}
+
+img {
+  /* Tốc độ animation */
+  transition: 0.5s;
+}
