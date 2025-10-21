@@ -1,0 +1,24 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  opacity: 100%;
+}
+
+h2 {
+  opacity: 1;
+  visibility: hidden;
+}
+
+h3 {
+  display: none;
+}
+
+h4 {
+  visibility: hidden;
+}
+
+span {
+  visibility: visible;
+}
