@@ -1,0 +1,29 @@
+p {
+  color: red;
+  font-size: 18px;
+}
+
+#doan_van_2 {
+  color: blue;
+}
+
+#doan_van_3 {
+  color: blueviolet;
+}
+
+.demo {
+  color: brown;
+}
+
+.demo_2 {
+  font-size: 40px;
+}
+
+.item_ul_1 {
+  /* thẻ bỏ dấu trong list */
+  list-style: none;
+}
+
+.item_ul_2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
