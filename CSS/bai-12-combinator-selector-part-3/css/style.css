@@ -1,0 +1,13 @@
+p,
+.title {
+  color: red;
+}
+
+#id_1,
+#id_2 {
+  color: blue;
+}
+
+.title.title_2 {
+  color: violet;
+}
