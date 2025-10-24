@@ -1,0 +1,39 @@
+body {
+  font-family: Twemoji Country Flags, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+/* Chọn tất cả thẻ p trong thẻ div  */
+div p {
+  color: blue;
+}
+
+block p {
+  color: green;
+}
+/* Chọn tất thẻ class trong thẻ div  */
+div .demo {
+  color: violet;
+}
+
+.ls-item h3 {
+  color: brown;
+}
+
+.ls-item ul {
+  color: bisque;
+}
+/* Ngăn cách giữa các phần tử */
+.table-1 > h3 {
+  font-size: 20px;
+}
+
+.tb-container > thead {
+  color: aqua;
+  background-color: black;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  background-color: transparent;
+}
