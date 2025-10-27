@@ -6,10 +6,14 @@ body {
 div p {
   color: blue;
 }
+.loichuc p {
+  font-size: 30px;
+}
 
 block p {
   color: green;
 }
+
 /* Chọn tất thẻ class trong thẻ div  */
 div .demo {
   color: violet;
